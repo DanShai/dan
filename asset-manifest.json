@@ -1,9 +1,11 @@
 {
-  "main.css": "/dan/static/css/main.2b57c385.chunk.css",
-  "main.js": "/dan/static/js/main.adc3f7db.chunk.js",
-  "runtime~main.js": "/dan/static/js/runtime~main.c857ce88.js",
-  "static/js/2.e694f6df.chunk.js": "/dan/static/js/2.e694f6df.chunk.js",
-  "index.html": "/dan/index.html",
-  "precache-manifest.89fb5a7fac2bab726d746128e51d4fde.js": "/dan/precache-manifest.89fb5a7fac2bab726d746128e51d4fde.js",
-  "service-worker.js": "/dan/service-worker.js"
+  "files": {
+    "main.css": "/dan/static/css/main.2b57c385.chunk.css",
+    "main.js": "/dan/static/js/main.a94b0ece.chunk.js",
+    "runtime~main.js": "/dan/static/js/runtime~main.0cfc3a23.js",
+    "static/js/2.363e7c7d.chunk.js": "/dan/static/js/2.363e7c7d.chunk.js",
+    "index.html": "/dan/index.html",
+    "precache-manifest.33603b7cdc92d5adbe34a66fcec814e5.js": "/dan/precache-manifest.33603b7cdc92d5adbe34a66fcec814e5.js",
+    "service-worker.js": "/dan/service-worker.js"
+  }
 }
